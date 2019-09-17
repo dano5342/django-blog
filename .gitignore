@@ -3,4 +3,8 @@
 *.~c9/
 __pycahce__/
 *.c9/
-.c9/*
+*.c9/*
+*.c9*/
+.c9/metadata/environment/blog/settings.py
+.c9/metadata/environment/readme.md
+.c9/metadata/environment/requirements.txt
