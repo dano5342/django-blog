@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 DEBUG = True
 
 ALLOWED_HOSTS = ['d6af0652d3444f9a941fb9505e6b98f2.vfs.cloud9.us-east-1.amazonaws.com',
-                 'https://django-blog-de.herokuapp.com/']
+                 'django-blog-de.herokuapp.com']
 
 
 # Application definition
